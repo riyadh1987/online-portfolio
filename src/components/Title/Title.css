@@ -1,0 +1,15 @@
+.title {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #373c3e;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.name {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #373c3e;
+  font-weight: bold;
+  font-size: 40pt;
+}

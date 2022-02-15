@@ -1,0 +1,26 @@
+.navbar {
+  background-color: RGB(187, 91, 59);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  /* width: 150px;
+  height: 150px; */
+  /* border-width: 1; */
+  /* border: 1px solid black; */
+}
+.avatar {
+  width: 150px;
+  height: 150px;
+  /* border: #d9937b 1px solid; */
+  /* border-radius: 100px; */
+}
+
+.link {
+  color: #d9937b;
+  font-weight: bold;
+  text-decoration: none;
+}
